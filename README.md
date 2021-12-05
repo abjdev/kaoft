@@ -17,13 +17,13 @@ Output:
 
 Operators:
 ```
-a=12
-b=12
-c=a+b
-d=12
-e=12
-f=d-e
-h=f*c
+>>> a=12
+>>> b=12
+>>> c=a+b
+>>> d=12
+>>> e=12
+>>> f=d-e
+>>> h=f*c
 ```
 
 Output:
