@@ -5,7 +5,7 @@ A programming language written with python
 # How to use
 
 A simple Hello World:
-```
+```python
 >>> c="Hello World"
 >>> c
 ```
@@ -16,7 +16,7 @@ Output:
 ```
 
 Operators:
-```
+```python
 >>> a=12
 >>> b=12
 >>> c=a+b
