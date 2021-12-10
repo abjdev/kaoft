@@ -1,29 +1,23 @@
-![kaoft](https://user-images.githubusercontent.com/91409956/144755842-463c35fb-68ae-4161-b9b7-fc84c9f8ee72.png)
-# Kaoft
+![kaoft2](https://user-images.githubusercontent.com/91409956/145599155-bf726c37-ce8c-4700-812c-b214f112747d.png)
+# Kaoft v2
 A programming language written with python
 
 # How to use
 
 A simple Hello World:
-```python
->>> c="Hello World"
->>> c
+```
+>>> PRINT("Hello World!")
 ```
 
 Output:
 ```
-"Hello World"
+"Hello World!"
 ```
 
 Operators:
-```python
->>> a=12
->>> b=12
->>> c=a+b
->>> d=12
->>> e=12
->>> f=d-e
->>> h=f*c
+```
+>>> VAR operation = 1 - 1
+>>> PRINT(operation)
 ```
 
 Output:
