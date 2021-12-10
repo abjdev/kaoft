@@ -1,0 +1,7 @@
+# If-Else
+
+VAR num = 1
+
+IF num == 1 THEN
+    PRINT("Pizza Cooking now!")
+END

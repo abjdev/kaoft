@@ -1,0 +1,5 @@
+# Loops
+
+FOR i = 0 TO 5 THEN
+    PRINT("Hi guys")
+END
